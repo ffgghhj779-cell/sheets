@@ -1,0 +1,6 @@
+{
+  "name": "Apps Script Auto-Copier",
+  "description": "An automated Google Apps Script generator designed to copy new Google Sheets from a read-only source folder to a personal destination folder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
